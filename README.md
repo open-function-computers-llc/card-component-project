@@ -1,6 +1,6 @@
-# employee-card-test
+# Card Component Project
 
-Build the Employee cards component you see attached to the project in the PDF file.
+Build the employee cards component you see attached to the project in the  `comp.pdf` or `comp.png` PDF file.
 
 ### Things to keep in mind
 
